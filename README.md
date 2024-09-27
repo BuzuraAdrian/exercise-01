@@ -1,1 +1,1 @@
-# exercise-01
+# siit-assignment-01
